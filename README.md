@@ -1,0 +1,1 @@
+# Sobrevivir-despues-de-instalar-linux
